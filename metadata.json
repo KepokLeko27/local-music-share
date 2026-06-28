@@ -1,0 +1,6 @@
+{
+  "name": "Local Music Share",
+  "description": "Seamless, high-speed music sharing and remote-sync player from phone to PC via Wi-Fi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
