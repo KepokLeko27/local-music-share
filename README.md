@@ -42,7 +42,7 @@ Open your computer's terminal and find your local IP address:
 2. **On your Phone**: Open your mobile browser and navigate to `http://<YOUR-LAPTOP-IP>:3000` (e.g., `http://192.168.1.15:3000`).
 
 ### Step 3: Connect and Play!
-1. Enter the **same Room PIN** (e.g., `adammusic`) on both your phone and PC.
+1. Enter the **same Room PIN** (e.g., `kepokmusic`) on both your phone and PC.
 2. **On Laptop**: Select **"Desktop Player"** mode.
 3. **On Phone**: Select **"Mobile Remote"** mode, drag-and-drop or select your local audio files to upload, and tap any song to play it instantly on your PC speaker!
 
